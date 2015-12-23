@@ -1,0 +1,10 @@
+c:\users\ekonwlo\documents\visual studio 2013\Projects\IoT_brown_bag\Commot.Localization.DataModel\bin\Debug\Common.IoT.Core.dll
+c:\users\ekonwlo\documents\visual studio 2013\Projects\IoT_brown_bag\Commot.Localization.DataModel\bin\Debug\Common.IoT.Core.pdb
+c:\users\ekonwlo\documents\visual studio 2013\Projects\IoT_brown_bag\Commot.Localization.DataModel\bin\Debug\MongoDB.Bson.dll
+c:\users\ekonwlo\documents\visual studio 2013\Projects\IoT_brown_bag\Commot.Localization.DataModel\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\ekonwlo\documents\visual studio 2013\Projects\IoT_brown_bag\Commot.Localization.DataModel\bin\Debug\MongoDB.Driver.dll
+c:\users\ekonwlo\documents\visual studio 2013\Projects\IoT_brown_bag\Commot.Localization.DataModel\bin\Debug\MongoDB.Bson.xml
+c:\users\ekonwlo\documents\visual studio 2013\Projects\IoT_brown_bag\Commot.Localization.DataModel\bin\Debug\MongoDB.Driver.xml
+c:\users\ekonwlo\documents\visual studio 2013\Projects\IoT_brown_bag\Commot.Localization.DataModel\obj\Debug\Common.IoT.Core.dll
+c:\users\ekonwlo\documents\visual studio 2013\Projects\IoT_brown_bag\Commot.Localization.DataModel\obj\Debug\Common.IoT.Core.pdb
+c:\users\ekonwlo\documents\visual studio 2013\Projects\IoT_brown_bag\Commot.Localization.DataModel\obj\Debug\Common.IoT.Core.csprojResolveAssemblyReference.cache
